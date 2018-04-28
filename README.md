@@ -1,22 +1,16 @@
 # food-recipes-react
 
 ## Technologies: 
-- ###### API :
- - GraphQL
- - Auth0 Lock
-- ###### Front-End:
- - ReactJS 
- - Apollo clinet
-- ###### UserInerface:
- - Sass
+- GraphQL
+- Auth0 Lock
+- ReactJS 
+- Apollo clinet
+- Sass
 - Material Design
- - BabylonJS
-- ###### Back-end:
- - NodeJS
-- ###### DataBase:
- - PostgreSQL
- - MongoDB
-
--GruntJS
+- BabylonJS
+- NodeJS
+- PostgreSQL
+- MongoDB
+- GruntJS
 
  
